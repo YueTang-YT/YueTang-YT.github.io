@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yue Tang | Emory University"
+title: ""
 author_profile: true
 description: "PhD student in Business at Emory University. Researching supply chain, disruptions, and operations analytics."
 redirect_from: 
