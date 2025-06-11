@@ -23,8 +23,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /files/CV_YUE_TANG.pdf
+  - title: "CV"
+    url: /files/CV_YUE_TANG.pdf
     
   # - title: "CV"
   #   url: /cv-json/
