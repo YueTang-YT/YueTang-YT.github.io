@@ -53,3 +53,56 @@ My research lies at the intersection of operations management and empirical meth
     </ul>
   </li>
 </ul>
+
+## Teaching
+<ul>
+  <li style="list-style-type: disc;">Guest Lecturer
+    <ul>
+      <li style="list-style-type: circle;">
+        <div><b>Supply Chain Management (MSBA)</b>, Sp2025</div>
+        <div><i>Detect Supply Chain Disruptions using Fine-Tuned LLM</i></div>
+      </li>
+      <li style="list-style-type: circle;">
+        <div><b>Superforecasting (BBA)</b>, Sp2024</div>
+        <div><i>Rolling Forecast</i></div>
+      </li>
+    </ul>
+    <ul>
+    </ul>
+  </li>
+
+<li style="list-style-type: disc;">
+  Teaching Assistant
+  <ul>
+    <li style="list-style-type: circle;">
+      <div><b>Supply Chain Management (BBA, MBA, MSBA)</b>, Sp2025</div>
+      <div>&#x25A0; Instructor: Nikolay Osadchiy</div>    
+    </li>
+    <li style="list-style-type: circle;">
+      <div><b>Processes & Systems Management (BBA, MBA)</b>, Sp2025</div>
+      <div>&#x25A0; Instructor: Ruomeng Cui</div>
+    </li>
+    <li style="list-style-type: circle;">
+      <div><b>Data Visualization (BBA, MBA)</b>, Fa2024</div>
+      <div>&#x25A0; Instructor: Anandhi Bharadwaj</div>
+    </li>
+    <li style="list-style-type: circle;">
+      <div><b>Deep Learning (MSBA)</b>, Sp2024</div>
+      <div>&#x25A0; Instructor: Emma Jingfei Zhang</div>
+    </li>
+    <li style="list-style-type: circle;">
+      <div><b>Superforecasting (BBA, MBA)</b>, Sp2024, 2023</div>
+      <div>&#x25A0; Instructor: Donald Lee</div>
+    </li>
+    <li style="list-style-type: circle;">
+      <div><b>Management Science in Spreadsheets (MBA)</b>, Sp2023</div>
+      <div>&#x25A0; Instructor: Diwas KC</div>
+    </li>
+    <li style="list-style-type: circle;">
+      <div><b>Stochastic Models (PhD)</b>, Sp2019</div>
+      <div>&#x25A0; Instructor: Hanqin Zhang</div>
+    </li>
+  </ul>
+</li>
+
+</ul>
