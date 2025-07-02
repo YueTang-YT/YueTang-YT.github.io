@@ -106,3 +106,5 @@ My research lies at the intersection of operations management and empirical meth
 </li>
 
 </ul>
+
+<!-- My work bridges empirical operations management and futures thinking, focusing on how emerging technologies, policy shocks, and shifting narratives reshape supply chains, sustainability behavior, and healthcare systems. -->
