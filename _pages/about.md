@@ -54,6 +54,9 @@ My research lies at the intersection of operations management and empirical meth
   </li>
 </ul>
 
+## Services
+<li style="list-style-type: circle;">Co- organizer: Goizueta Doctoral Research Conference 2024</li>
+
 ## Teaching
 <ul>
   <li style="list-style-type: disc;">Guest Lecturer
