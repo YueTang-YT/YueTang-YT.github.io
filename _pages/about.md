@@ -28,21 +28,19 @@ My research lies at the intersection of operations management and empirical meth
 - 2020: M.S., Management Science and Engineering, University of Science and Technology of China
 - 2017: BBA,  Electronic Commerce, Sichuan University
 
-## Research
-<ul>
-  <li style="list-style-type: disc;">Working Paper<ul><ul>
-  <li style="list-style-type: circle;">
-    <b>Value Destruction and Recovery from Supply Chain Disruptions</b>, with Nikolay Osdachiy. 
-    Available on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407347" target="_blank">SSRN</a>
-  </li>
-</ul>
-<ul>
-  <li style="list-style-type: circle;">
+## Research<ul>
+  <li style="list-style-type: disc;">Working Paper
+    <ul>
+      <li style="list-style-type: circle;">
+        <b>Value Destruction and Recovery from Supply Chain Disruptions</b>, with Nikolay Osdachiy. Available on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407347" target="_blank">SSRN</a>
+      </li>
+      <li style="list-style-type: circle;">
         <b>The Effect of AI-Like Introductions on Early Fundraising Outcomes in Medical Crowdfunding</b>, with Ruomeng Cui, Guihua Wang, Wen Zhang
       </li>
     </ul>
   </li>
 </ul>
+
 
 ## Conference Presentations
 <ul>
