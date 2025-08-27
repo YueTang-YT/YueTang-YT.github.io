@@ -18,7 +18,7 @@ redirect_from:
   gtag('config', 'G-PHYCRQ4Y5M');
 </script>
 
-I am Yue Tang, a Ph.D. candidate in Information Systems and Operations Management at Goizueta Business School, Emory University. I am fortunate to be advised by Professor [Nikolay Osadchiy](http://www.nikolayosadchiy.com).
+I am a Ph.D. candidate in Information Systems and Operations Management at Goizueta Business School, Emory University. I am fortunate to be advised by Professor [Nikolay Osadchiy](http://www.nikolayosadchiy.com).
 
 My research lies at the intersection of operations management and empirical methods, with a focus on supply chain networks, sustainability, and healthcare operations. I study how different forms of information (ranging from firm disclosures and campaign narratives to policy changes) shape both operational and financial outcomes. Methodologically, I combine causal inference with machine learning techniques, including applications of large language models to textual and visual data, to examine firm behavior, network dynamics, and unstructured information. Current projects investigate value destruction and recovery from supply chain disruptions, the role of risk exposures in driving firms’ environmental strategies, and the effectiveness of AI-assisted medical crowdfunding.
 
