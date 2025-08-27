@@ -28,7 +28,7 @@ My research lies at the intersection of operations management and empirical meth
 - 2020: M.S., Management Science and Engineering, University of Science and Technology of China
 - 2017: BBA,  Electronic Commerce, Sichuan University
 
-## Research<ul>
+## Research
   <li style="list-style-type: disc;">Working Paper
     <ul>
       <li style="list-style-type: circle;">
@@ -39,7 +39,6 @@ My research lies at the intersection of operations management and empirical meth
       </li>
     </ul>
   </li>
-</ul>
 
 
 ## Conference Presentations
