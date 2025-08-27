@@ -25,11 +25,11 @@ author:
   avatar           : "yue_profile.jpeg"
   name             : "Yue Tang | 唐越"
   pronouns         : "he/him"  
-  bio              : "PhD Candidate in Information Systems and Operations Management"
+  bio              : "PhD Candidate"# in Information Systems and Operations Management"
   location         : "Atlanta, GA"
   employer         : "Emory University"
   uri              : # https://scholar.google.com/citations?user=afGUMd4AAAAJ&hl=en
-  email            : "yue.tang@emory.edu" 
+  email            : # "yue.tang@emory.edu" 
 
   # Academic websites
   academia         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "YueTang-YT"
+  github           : # "YueTang-YT"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
