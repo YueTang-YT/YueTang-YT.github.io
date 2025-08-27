@@ -25,9 +25,9 @@ author:
   avatar           : "yue_profile.jpeg"
   name             : "Yue Tang | 唐越"
   pronouns         : "he/him"  
-  bio              : "PhD Candidate"# in Information Systems and Operations Management"
+  bio              : # "PhD Candidate" in Information Systems and Operations Management"
   location         : "Atlanta, GA"
-  employer         : "Emory University"
+  employer         : # "Emory University"
   uri              : # https://scholar.google.com/citations?user=afGUMd4AAAAJ&hl=en
   email            : # "yue.tang@emory.edu" 
 
