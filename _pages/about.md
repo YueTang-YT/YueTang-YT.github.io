@@ -73,6 +73,10 @@ My research lies at the intersection of operations management and empirical meth
   <li style="list-style-type: disc;">Guest Lecturer
     <ul>
       <li style="list-style-type: circle;">
+        <div><b>Lively Globe (High School Students)</b>, Su2025</div>
+        <div><i>An Introduction to Economics</i></div>
+      </li>
+      <li style="list-style-type: circle;">
         <div><b>Supply Chain Management (MSBA)</b>, Sp2025</div>
         <div><i>Detect Supply Chain Disruptions using Fine-Tuned LLM</i></div>
       </li>
