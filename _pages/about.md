@@ -35,13 +35,24 @@ My research lies at the intersection of operations management and empirical meth
       <li style="list-style-type: circle;">
         <b>Value Destruction and Recovery from Supply Chain Disruptions</b>, with Nikolay Osdachiy. Available on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407347" target="_blank">SSRN</a>
       </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li style="list-style-type: disc;">Work in Progress
+    <ul>
+      <li style="list-style-type: circle;">
+        <b>Supply Network Adaptation to Tariff Uncertainty</b>, with Nikolay Osadchiy
+      </li>
+    </ul>
+    <ul>
       <li style="list-style-type: circle;">
         <b>The Effect of AI-Like Introductions on Early Fundraising Outcomes in Medical Crowdfunding</b>, with Ruomeng Cui, Guihua Wang, Wen Zhang
       </li>
     </ul>
   </li>
-</ul>
-
+  </ul>
 
 ## Conference Presentations
 <ul>
