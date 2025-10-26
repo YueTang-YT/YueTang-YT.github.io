@@ -46,11 +46,13 @@ My research lies at the intersection of operations management and empirical meth
         <b>Supply Network Adaptation to Tariff Uncertainty</b>, with Nikolay Osadchiy
       </li>
     </ul>
+    <!--
     <ul>
       <li style="list-style-type: circle;">
         <b>The Effect of AI-Like Introductions on Early Fundraising Outcomes in Medical Crowdfunding</b>, with Ruomeng Cui, Guihua Wang, Wen Zhang
       </li>
     </ul>
+    -->
   </li>
   </ul>
 
