@@ -60,7 +60,8 @@ My research lies at the intersection of operations management and empirical meth
 <ul>
   <li style="list-style-type: disc;"><b>Value Destruction and Recovery from Supply Chain Disruptions</b>
     <ul>
-      <li style="list-style-type: circle;">2025 INFORMS Annual Meeting, Atlanta, GA (Scheduled) </li>
+      <li style="list-style-type: circle;">2026 POMS Conference, Reno, NV (Scheduled) </li>
+      <li style="list-style-type: circle;">2025 INFORMS Annual Meeting, Atlanta, GA</li>
       <li style="list-style-type: circle;">2025 POMS Conference, Atlanta, GA  </li>
     </ul>
   </li>
@@ -75,7 +76,7 @@ My research lies at the intersection of operations management and empirical meth
   <li style="list-style-type: disc;">Guest Lecturer
     <ul>
       <li style="list-style-type: circle;">
-        <div><b>Lively Globe (High School Students)</b>, Su2025</div>
+        <div><b>Lively Globe (Prospective College Students)</b>, Su2025</div>
         <div><i>An Introduction to Economics</i></div>
       </li>
       <li style="list-style-type: circle;">
