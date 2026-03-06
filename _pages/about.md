@@ -43,9 +43,6 @@ My research lies at the intersection of operations management and empirical meth
   <li style="list-style-type: disc;">Work in Progress
     <ul>
       <li style="list-style-type: circle;">
-        <b>Supply Network Adaptation to Tariff Uncertainty</b>, with Nikolay Osadchiy
-      </li>
-      <li style="list-style-type: circle;">
         <b>How Do AI-Related Technologies Develop in British Startup Firms</b>, with Yiyao Zhou, Bilal Gokpinar and Onesun Steve Yoo 
       </li>
     </ul>
