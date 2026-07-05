@@ -35,17 +35,22 @@ My research lies at the intersection of operations management and empirical meth
       <li style="list-style-type: circle;">
         <b>Value Destruction and Recovery from Supply Chain Disruptions</b>, with Nikolay Osdachiy. Available on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407347" target="_blank">SSRN</a>
       </li>
+      <li style="list-style-type: circle;">
+        <b>AI Washing vs. Real AI: Venture Capital Allocation and Firm Performance in British SaaS Startups</b>, with Yiyao Zhou, Bilal Gokpinar and Onesun Steve Yoo. In preparation for submission.
+      </li>
     </ul>
   </li>
 </ul>
 
 <ul>
   <li style="list-style-type: disc;">Work in Progress
+    <!--    
     <ul>
       <li style="list-style-type: circle;">
         <b>How Do AI-Related Technologies Develop in British Startup Firms</b>, with Yiyao Zhou, Bilal Gokpinar and Onesun Steve Yoo 
       </li>
     </ul>
+    -->
     <!--
     <ul>
       <li style="list-style-type: circle;">
@@ -79,6 +84,10 @@ My research lies at the intersection of operations management and empirical meth
   <li style="list-style-type: disc;">Guest Lecturer
     <ul>
       <li style="list-style-type: circle;">
+        <div><b>AI in Supply Chains (BBA, MSBA)</b>, Sp2026</div>
+        <div><i>Measuring Resilience with the Assistance of LLMs</i></div>
+      </li>
+      <li style="list-style-type: circle;">
         <div><b>Lively Globe (Prospective College Students)</b>, Su2025</div>
         <div><i>An Introduction to Economics</i></div>
       </li>
@@ -99,7 +108,7 @@ My research lies at the intersection of operations management and empirical meth
   Teaching Assistant
   <ul>
     <li style="list-style-type: circle;">
-      <div><b>Supply Chain Management (BBA, MBA, MSBA)</b>, Sp2025</div>
+      <div><b>Supply Chain Management (BBA, MBA, MSBA)</b>, Sp2025, Sp2026</div>
       <div>&#x25A0; Instructor: Nikolay Osadchiy</div>    
     </li>
     <li style="list-style-type: circle;">
