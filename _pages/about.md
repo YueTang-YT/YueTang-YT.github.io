@@ -72,7 +72,7 @@ My research lies at the intersection of operations management and empirical meth
 ## Services
 - **Co-organizer**: Goizueta Doctoral Research Conference 2024
 - **Session Chair**: POMS Annual Conference (Reno) 2026
-- **Reviwer**: IISE Transactions
+- **Reviwer**: _IISE Transactions_
 
 ## Teaching
 <ul>
