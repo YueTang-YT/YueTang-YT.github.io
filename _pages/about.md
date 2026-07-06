@@ -22,6 +22,8 @@ I am a Ph.D. candidate in Information Systems and Operations Management at Goizu
 
 My research lies at the intersection of operations management and empirical methods, with a primary focus on supply chain management and sustainability. I study how firms and their supply networks recover from and adapt to shocks such as operational disruptions, tariff uncertainty, and military conflicts, with an emphasis on understanding the mechanisms that foster supply chain resilience. Methodologically, I rely on econometric techniques for causal inference and leverage large language and vision-language models (LLMs and VLMs) to extract and analyze unstructured information from texts and images through fine-tuning. I am also interested in the future of business from the energy and supply chain perspective, specifically, how firms adapt to evolving energy sources, including the increasing use of renewable energy, and how such adaptation can be systematically measured at both firm and network levels.
 
+I am a first-generation college student.
+
 ## Education
 - Present: Ph.D. Candidate, Information Systems and Operations Management, Emory University
 - 2021: MRes, Operations and Technology, University College London
