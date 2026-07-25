@@ -13,38 +13,10 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 <style>
-  html {
-    scroll-behavior: smooth;
-  }
-
   h1[id], h2[id] {
     scroll-margin-top: 5rem;
   }
 </style>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll('a[href^="/#"]').forEach(function (link) {
-      link.addEventListener("click", function (event) {
-        var targetId = link.getAttribute("href").slice(2);
-        var target = document.getElementById(targetId);
-
-        if (!target) return;
-
-        event.preventDefault();
-        var headerOffset = 80;
-        var targetTop = target.getBoundingClientRect().top + window.scrollY - headerOffset;
-        var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-        window.scrollTo({
-          top: targetTop,
-          behavior: reduceMotion ? "auto" : "smooth"
-        });
-        window.history.pushState(null, "", "#" + targetId);
-      });
-    });
-  });
-</script>
 
 
 <!-- Support for MatJax -->
