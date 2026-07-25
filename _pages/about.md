@@ -70,7 +70,7 @@ I am a first-generation college student.
   <li style="list-style-type: disc;"><b>Value Destruction and Recovery from Supply Chain Disruptions</b>
     <ul>
       <li style="list-style-type: circle;">2026 INFORMS Annual Meeting, San Francisco, CA (Scheduled) </li>
-      <li style="list-style-type: circle;">2026 MSOM SIG Day (Harvard Business School), Boston, MA (Scheduled) </li>
+      <li style="list-style-type: circle;">2026 MSOM SIG Day (Harvard Business School), Boston, MA </li>
       <li style="list-style-type: circle;">2026 POMS Conference, Reno, NV</li>
       <li style="list-style-type: circle;">2025 INFORMS Annual Meeting, Atlanta, GA</li>
       <li style="list-style-type: circle;">2025 POMS Conference, Atlanta, GA  </li>
