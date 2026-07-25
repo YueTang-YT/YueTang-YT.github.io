@@ -18,19 +18,21 @@ redirect_from:
   gtag('config', 'G-PHYCRQ4Y5M');
 </script>
 
+# About Me {#about}
+
 I am a Ph.D. candidate in Information Systems and Operations Management at Goizueta Business School, Emory University. I am fortunate to be advised by Professor [Nikolay Osadchiy](http://www.nikolayosadchiy.com).
 
 My research lies at the intersection of operations management and empirical methods, with a primary focus on supply chain management and sustainability. I study how firms and their supply networks recover from and adapt to shocks such as operational disruptions, tariff uncertainty, and military conflicts, with an emphasis on understanding the mechanisms that foster supply chain resilience. Methodologically, I rely on econometric techniques for causal inference and leverage large language and vision-language models (LLMs and VLMs) to extract and analyze unstructured information from texts and images through fine-tuning. I am also interested in the future of business from the energy and supply chain perspective, specifically, how firms adapt to evolving energy sources, including the increasing use of renewable energy, and how such adaptation can be systematically measured at both firm and network levels.
 
 I am a first-generation college student.
 
-## Education
+## Education {#education}
 - Present: Ph.D. Candidate, Information Systems and Operations Management, Emory University
 - 2021: MRes, Operations and Technology, University College London
 - 2020: M.S., Management Science and Engineering, University of Science and Technology of China
 - 2017: BBA,  Electronic Commerce, Sichuan University
 
-## Research
+## Research {#research}
 <ul>
   <li style="list-style-type: disc;">Working Paper
     <ul>
@@ -63,7 +65,7 @@ I am a first-generation college student.
   </li>
   </ul>
 
-## Conference Presentations
+## Conference Presentations {#presentations}
 <ul>
   <li style="list-style-type: disc;"><b>Value Destruction and Recovery from Supply Chain Disruptions</b>
     <ul>
@@ -76,12 +78,12 @@ I am a first-generation college student.
   </li>
 </ul>
 
-## Services
+## Services {#services}
 - **Co-organizer**: Goizueta Doctoral Research Conference 2024
 - **Session Chair**: POMS Annual Conference (Reno) 2026
 - **Reviwer**: _IISE Transactions_
 
-## Teaching
+## Teaching {#teaching}
 <ul>
   <li style="list-style-type: disc;">Guest Lecturer
     <ul>
