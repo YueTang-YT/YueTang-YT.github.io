@@ -22,6 +22,30 @@
   }
 </style>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll('a[href^="/#"]').forEach(function (link) {
+      link.addEventListener("click", function (event) {
+        var targetId = link.getAttribute("href").slice(2);
+        var target = document.getElementById(targetId);
+
+        if (!target) return;
+
+        event.preventDefault();
+        var headerOffset = 80;
+        var targetTop = target.getBoundingClientRect().top + window.scrollY - headerOffset;
+        var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+        window.scrollTo({
+          top: targetTop,
+          behavior: reduceMotion ? "auto" : "smooth"
+        });
+        window.history.pushState(null, "", "#" + targetId);
+      });
+    });
+  });
+</script>
+
 
 <!-- Support for MatJax -->
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
