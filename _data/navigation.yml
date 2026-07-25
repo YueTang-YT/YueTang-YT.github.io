@@ -43,6 +43,7 @@ main:
     
   - title: "CV"
     url: /files/CV_YUE_TANG.pdf
+    target: "_blank"
     
   # - title: "CV"
   #   url: /cv-json/
