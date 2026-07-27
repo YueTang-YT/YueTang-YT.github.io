@@ -37,10 +37,10 @@ I am a first-generation college student.
   <li style="list-style-type: disc;">Working Paper
     <ul>
       <li style="list-style-type: circle;">
-        <b>Value Destruction and Recovery from Supply Chain Disruptions</b>, with Nikolay Osdachiy. Available on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407347" target="_blank">SSRN</a>
+        <b>Value Destruction and Recovery from Supply Chain Disruptions</b>, with <em>Nikolay Osdachiy</em>. Available on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407347" target="_blank">SSRN</a>
       </li>
       <li style="list-style-type: circle;">
-        <b>AI Washing vs. Real AI: Venture Capital Allocation and Firm Performance in British SaaS Startups</b>, with Yiyao Zhou, Bilal Gokpinar and Onesun Steve Yoo. In preparation for submission.
+        <b>AI Washing vs. Real AI: Venture Capital Allocation and Firm Performance in British SaaS Startups</b>, with <em>Yiyao Zhou</em>, <em>Bilal Gokpinar</em> and <em>Onesun Steve Yoo</em>. In preparation for submission.
       </li>
     </ul>
   </li>
