@@ -48,13 +48,11 @@ I am a first-generation college student.
 
 <ul>
   <li style="list-style-type: disc;">Work in Progress
-    <!--    
     <ul>
       <li style="list-style-type: circle;">
-        <b>How Do AI-Related Technologies Develop in British Startup Firms</b>, with Yiyao Zhou, Bilal Gokpinar and Onesun Steve Yoo 
+        <b>Visualizing Claims and Extending Narratives</b>, with <em>Tonglu Yuan</em>
       </li>
     </ul>
-    -->
     <!--
     <ul>
       <li style="list-style-type: circle;">
@@ -81,7 +79,7 @@ I am a first-generation college student.
 ## Services {#services}
 - **Co-organizer**: Goizueta Doctoral Research Conference 2024
 - **Session Chair**: POMS Annual Conference (Reno) 2026
-- **Ad Hoc Reviwer**: _IISE Transactions_
+- **Ad Hoc Reviwer**: _IISE Transactions_, _CAIS_
 
 ## Teaching {#teaching}
 <ul>
